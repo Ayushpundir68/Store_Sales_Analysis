@@ -42,9 +42,13 @@ Payment Method: The mode of payment used by the customer.
 Data Cleaning & Preprocessing:
 Before performing analysis in Tableau, the dataset underwent cleaning and transformation using Power Query in Excel. This included:
 ✅ Handling missing or null values.
+
 ✅ Removing duplicates.
+
 ✅ Converting data types (e.g., dates, numerical values).
+
 ✅ Standardizing categorical values.
+
 ✅ Creating calculated fields for further analysis.
 
 Analytical Focus & Objectives:
@@ -65,9 +69,13 @@ This project aims to extract valuable insights from the store's sales and profit
 Visualizations & Dashboard Elements:
 The Tableau dashboard is designed to present insights in an interactive and easy-to-understand format. It includes:
 📊 Sales & Profit Trends: Time-series analysis of revenue and profit.
+
 📈 Top-Selling Products: Visualization of the best-performing products.
+
 🌍 Regional Sales Analysis: Sales and profit distribution across different locations.
+
 💰 Profitability Breakdown: Analysis of profit margins across product categories.
+
 📉 Discount vs. Profit Impact: Understanding how discounts affect profit margins.
 
 Conclusion & Business Impact:
